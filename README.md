@@ -8,13 +8,13 @@ object oriented programming in java
 
 html,css,javascipt
 
-python for datascience
+python for Datascience
 
 SQL
 
 Data structures and algorithms in java
 
-opertiong systems
+operting systems
 
 Projects
 Lifeline Blood Donor Network – Web application to connect blood donors with patients.
