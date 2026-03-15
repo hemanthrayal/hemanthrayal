@@ -2,12 +2,19 @@ Hi, I'm Hemanth Rayal
 
 B.Tech Computer Science student interested in Data Science and Web Development.
 
-Skills
-Python
-JavaScript
-Data Analysis
+Skills:
+
+object oriented programming in java
+
+html,css,javascipt
+
+python for datascience
+
 SQL
-Git
+
+Data structures and algorithms in java
+
+opertiong systems
 
 Projects
 Lifeline Blood Donor Network – Web application to connect blood donors with patients.
